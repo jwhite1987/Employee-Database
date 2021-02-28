@@ -1,4 +1,5 @@
 # Ignore py
 
 .py
+.env
 /Instructions/data/Postgres.py
