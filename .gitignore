@@ -1,5 +1,9 @@
+# Mac
+
+.DS_Store
+
 # Ignore py
 
-.py
+*.py
 .env
 /Instructions/data/Postgres.py
