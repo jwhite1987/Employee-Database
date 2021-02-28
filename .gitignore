@@ -1,1 +1,4 @@
-Postgres.py
+# Ignore py
+
+.py
+/Instructions/data/Postgres.py
